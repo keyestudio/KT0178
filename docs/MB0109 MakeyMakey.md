@@ -17,8 +17,8 @@ Combined with games or media software, you can design some simple interactive me
 | Current                 | 500mA                               |
 | Maximum power           | 2.5W                                |
 | Operating temperature   | -10-50℃                             |
-| Dimensions              | 94.2*49.3*10.6mm                    |
-| Environmental attribute | R ROHS     □ none ROHS              |
+| Dimensions              | 94.2 *49.3 *10.6mm                  |
+| Environmental attribute | R ROHS                              |
 | IDE version             | Arduino IDE 1.8.5 or later versions |
 | Backup parameters       | Single board weight: 18G            |
 
